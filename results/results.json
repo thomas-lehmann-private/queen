@@ -522,5 +522,121 @@
     "solutions": 2279184,
     "source": "Queen_multiprocessing.py",
     "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 8,
+    "durations": {
+      "1639323683490": 0.002,
+      "1639323746823": 0.001
+    },
+    "solutions": 92,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 9,
+    "durations": {
+      "1639323683490": 0.003,
+      "1639323746823": 0.003
+    },
+    "solutions": 352,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 10,
+    "durations": {
+      "1639323683490": 0.007,
+      "1639323746823": 0.009
+    },
+    "solutions": 724,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 11,
+    "durations": {
+      "1639323683490": 0.03,
+      "1639323746823": 0.027
+    },
+    "solutions": 2680,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 12,
+    "durations": {
+      "1639323683490": 0.117,
+      "1639323746823": 0.109
+    },
+    "solutions": 14200,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 13,
+    "durations": {
+      "1639323683490": 0.549,
+      "1639323746823": 0.552
+    },
+    "solutions": 73712,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 14,
+    "durations": {
+      "1639323683490": 3.245,
+      "1639323746823": 3.211
+    },
+    "solutions": 365596,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 15,
+    "durations": {
+      "1639323683490": 20.813,
+      "1639323746823": 20.787
+    },
+    "solutions": 2279184,
+    "source": "Queen.java",
+    "version": "Java 16"
+  },
+  {
+    "language": "Java",
+    "url": "http://openjdk.java.net/",
+    "distribution": "OpenJDK",
+    "chessboard-width": 16,
+    "durations": {
+      "1639323746823": 144.519
+    },
+    "solutions": 14772512,
+    "source": "Queen.java",
+    "version": "Java 16"
   }
 ]

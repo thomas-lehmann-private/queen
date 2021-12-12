@@ -1,0 +1,39 @@
+SOURCE=Queen.java
+VERSION=Java 16
+TIMESTAMP=1639323746823
+Running with Java 16.0.2
+Queen raster (8x8)
+...took 0.001 seconds.
+...92 solutions found.
+Running with Java 16.0.2
+Queen raster (9x9)
+...took 0.003 seconds.
+...352 solutions found.
+Running with Java 16.0.2
+Queen raster (10x10)
+...took 0.009 seconds.
+...724 solutions found.
+Running with Java 16.0.2
+Queen raster (11x11)
+...took 0.027 seconds.
+...2680 solutions found.
+Running with Java 16.0.2
+Queen raster (12x12)
+...took 0.109 seconds.
+...14200 solutions found.
+Running with Java 16.0.2
+Queen raster (13x13)
+...took 0.552 seconds.
+...73712 solutions found.
+Running with Java 16.0.2
+Queen raster (14x14)
+...took 3.211 seconds.
+...365596 solutions found.
+Running with Java 16.0.2
+Queen raster (15x15)
+...took 20.787 seconds.
+...2279184 solutions found.
+Running with Java 16.0.2
+Queen raster (16x16)
+...took 144.519 seconds.
+...14772512 solutions found.
