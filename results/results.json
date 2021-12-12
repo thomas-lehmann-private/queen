@@ -426,5 +426,101 @@
     "solutions": 14772512,
     "source": "Queen_node.js",
     "version": "Nodejs 16"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 8,
+    "durations": {
+      "1639304791271": 0.16626
+    },
+    "solutions": 92,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 9,
+    "durations": {
+      "1639304791271": 0.172173
+    },
+    "solutions": 352,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 10,
+    "durations": {
+      "1639304791271": 0.205992
+    },
+    "solutions": 724,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 11,
+    "durations": {
+      "1639304791271": 0.263771
+    },
+    "solutions": 2680,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 12,
+    "durations": {
+      "1639304791271": 0.388586
+    },
+    "solutions": 14200,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 13,
+    "durations": {
+      "1639304791271": 0.796531
+    },
+    "solutions": 73712,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 14,
+    "durations": {
+      "1639304791271": 2.918661
+    },
+    "solutions": 365596,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 15,
+    "durations": {
+      "1639304791271": 16.681595
+    },
+    "solutions": 2279184,
+    "source": "Queen_multiprocessing.py",
+    "version": "PyPy (Python 3.8)"
   }
 ]

@@ -1,0 +1,172 @@
+{
+    "descriptors": [
+        {
+            "key": ".lisp.",
+            "language": "CLisp",
+            "distribution": "Steel Bank",
+            "url": "http://www.sbcl.org/"
+        },
+        {
+            "key": ".cs.",
+            "language": "C#",
+            "distribution": "Mono",
+            "url": "http://www.mono-project.com/"
+        },
+        {
+            "key": ".groovy.",
+            "language": "Groovy",
+            "distribution": "Groovy",
+            "url": "http://groovy-lang.org/"
+        },
+        {
+            "key": ".java.",
+            "language": "Java",
+            "distribution": "OpenJDK",
+            "url": "http://openjdk.java.net/"
+        },
+        {
+            "key": ".pl.",
+            "language": "Perl",
+            "distribution": "Perl",
+            "url": "https://www.perl.org"
+        },
+        {
+            "key": ".scala.",
+            "language": "Scala",
+            "distribution": "Scala",
+            "url": "https://www.scala-lang.org/"
+        },
+        {
+            "key": "Queen.d",
+            "language": "D",
+            "distribution": "D (DMD)",
+            "url": "https://dlang.org"
+        },
+        {
+            "key": "Queen_parallel.d",
+            "language": "D",
+            "distribution": "D (DMD)",
+            "url": "https://dlang.org"
+        },
+        {
+            "key": ".rb.",
+            "language": "Ruby",
+            "distribution": "Ruby",
+            "url": "https://www.ruby-lang.org/en"
+        },
+        {
+            "key": ".php.",
+            "language": "PHP",
+            "distribution": "PHP",
+            "url": "https://secure.php.net"
+        },
+        {
+            "key": ".c.",
+            "language": "C",
+            "distribution": "GNU GCC",
+            "url": "https://gcc.gnu.org"
+        },
+        {
+            "key": ".cxx.",
+            "language": "C++",
+            "distribution": "GNU GCC",
+            "url": "https://gcc.gnu.org"
+        },
+        {
+            "key": "openmp.cxx.",
+            "language": "C++",
+            "distribution": "GNU GCC",
+            "url": "https://gcc.gnu.org"
+        },
+        {
+            "key": ".pypy.",
+            "language": "Python",
+            "distribution": "PyPy",
+            "url": "http://pypy.org"
+        },
+        {
+            "key": ".multiprocessing.pypy.",
+            "language": "Python",
+            "distribution": "PyPy",
+            "url": "http://pypy.org"
+        },
+        {
+            "key": ".py.",
+            "language": "Python",
+            "distribution": "Python",
+            "url": "https://www.python.org"
+        },
+        {
+            "key": ".multiprocessing.py.",
+            "language": "Python",
+            "distribution": "Python",
+            "url": "https://www.python.org"
+        },
+        {
+            "key": "Queen.go.",
+            "language": "Go",
+            "distribution": "Google Go",
+            "url": "https://golang.org"
+        },
+        {
+            "key": "Queen_parallel.go.",
+            "language": "Go",
+            "distribution": "Google Go",
+            "url": "https://golang.org"
+        },
+        {
+            "key": "node.js.",
+            "language": "Javascript",
+            "distribution": "Node.js",
+            "url": "https://nodejs.org/en"
+        },
+        {
+            "key": ".pas.",
+            "language": "free pascal",
+            "distribution": "free pascal",
+            "url": "http://www.freepascal.org"
+        },
+        {
+            "key": ".bas.",
+            "language": "FreeBASIC",
+            "distribution": "FreeBASIC",
+            "url": "http://www.freebasic.net"
+        },
+        {
+            "key": ".kt.",
+            "language": "Kotlin",
+            "distribution": "Kotlin",
+            "url": "https://kotlinlang.org"
+        },
+        {
+            "key": ".lua.",
+            "language": "Lua",
+            "distribution": "Lua",
+            "url": "https://www.lua.org/"
+        },
+        {
+            "key": ".luajit.",
+            "language": "Lua",
+            "distribution": "Luajit",
+            "url": "http://luajit.org/"
+        },
+        {
+            "key": ".dart.",
+            "language": "Dart",
+            "distribution": "Dart",
+            "url": "https://www.dartlang.org/"
+        },
+        {
+            "key": ".jl.",
+            "language": "julia",
+            "distribution": "julia",
+            "url": "http://julialang.org/"
+        },
+        {
+            "key": ".rs.",
+            "language": "Rust",
+            "distribution": "Rust",
+            "url": "https://www.rust-lang.org"
+        }
+    ]
+}

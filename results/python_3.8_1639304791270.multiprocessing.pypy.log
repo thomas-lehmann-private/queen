@@ -1,0 +1,43 @@
+SOURCE=Queen_multiprocessing.py
+VERSION=PyPy (Python 3.8)
+TIMESTAMP=1639304791271
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (8x8)
+...took 0.166260 seconds.
+...92 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (9x9)
+...took 0.172173 seconds.
+...352 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (10x10)
+...took 0.205992 seconds.
+...724 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (11x11)
+...took 0.263771 seconds.
+...2680 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (12x12)
+...took 0.388586 seconds.
+...14200 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (13x13)
+...took 0.796531 seconds.
+...73712 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (14x14)
+...took 2.918661 seconds.
+...365596 solutions found.
+Running ./Queen_multiprocessing.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (15x15)
+...took 16.681595 seconds.
+...2279184 solutions found.
