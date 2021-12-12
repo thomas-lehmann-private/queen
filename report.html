@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html ng-app="report">
+
+<head>
+    <title>Queen Algorithm - Performance Results</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.10/c3.min.css">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.js"></script>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.3.0/ui-bootstrap-tpls.min.js"></script>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/c3-angular/1.3.1/c3-angular.min.js"></script>
+
+    <script type="text/javascript" src="report.js"></script>
+
+    <style>
+        td.invalid {
+            color: #ff0000;
+        }
+        
+        td.invalid a {
+            color: #ff0000;
+        }
+        
+        .tooltip.chart .tooltip-inner {
+            background-color: #ffffff;
+            color: #808080;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+            min-width: 500px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container" ng-controller="ReportController">
+        <div class="panel panel-default">
+            <div class="panel-heading text-center">
+                <h2>Queen Algorithm - Performance Results</h2>
+            </div>
+            <div class="panel-body">
+                <p>
+                    The project is located at <a href="https://github.com/thomas-lehmann-private/queen">https://github.com/thomas-lehmann-private/queen</a>. The purpose is implementing the queen algorithm in different languages (currently {{numberOfLanguages()}})
+                    and comparing the code and the performance. The algorithm is about a <b>n x n</b> chessboard with <b>n</b> queens placed in away that no queen does threaten any other one. The upper limit should be 2 minutes otherwise an entry will
+                    be displayed as red. The order is the biggest chessboard size at top of the table and then with ascending runtime of the algorithm each chessboard size.
+                </p>
+                <table class="table table-bordered table-striped table-condensed">
+                    <tr>
+                        <th>#</th>
+                        <th style="text-align: left">Language</th>
+                        <th style="text-align: left">Version</th>
+                        <th style="text-align: right">Chessboard Width</th>
+                        <th style="text-align: right">Average Duration</th>
+                        <th style="text-align: right">Count Measurement</th>
+                        <th style="text-align: right">Solutions</th>
+                        <th style="text-align: left">Source Code</th>
+                    </tr>
+                    <tr ng-repeat="entry in data | orderBy:language:false:customSort">
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid': 'invalid'}}">
+                            {{$index}}</td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid': 'invalid'}}">
+                            <a href="{{entry.url}}">{{entry.language}}</a></td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid': 'invalid'}}">
+                            <div uib-tooltip-template="'durationPerChessboardWidthChart'" tooltip-class="chart" tooltip-placement="bottom" ng-model="entry">
+                                <abbr title="">{{entry.version}}</abbr>
+                            </div>
+                        </td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid ': 'invalid '}}" style="text-align: right ">
+                            {{entry["chessboard-width"]}}</td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid ': 'invalid '}}" style="text-align: right ">
+                            {{averageDuration(entry.durations)}}</td>
+                        <td class="{{averageDuration(entry.durations) <=120.0? 'valid ': 'invalid '}}" style="text-align: right ">
+                            <div uib-tooltip-template="'durationChart'" tooltip-class="chart" tooltip-placement="bottom" ng-model="entry">
+                                <abbr title="">{{countDurations(entry.durations)}}</abbr></div>
+                        </td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid ': 'invalid '}}" style="text-align: right ">
+                            {{entry.solutions}}
+                        </td>
+                        <td class="{{averageDuration(entry.durations) <= 120.0? 'valid ': 'invalid '}}">
+                            <a href="https://github.com/Nachtfeuer/concept-queen/blob/master/src/{{entry.source}}">
+                                {{entry.source}}</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- tooltip displaying the duration for one entry -->
+    <script type="text/ng-template" id="durationChart">
+        <div>
+            <h3>Durations for {{entry.version}}, {{entry["chessboard-width"]}}x{{entry["chessboard-width"]}}</h3>
+            <div id="versionChart">
+                <c3chart bindto-id="duration-chart">
+                    <chart-column column-id="{{entry.language}}" column-color="#008000" column-values="{{join(getDurationData(entry), 1)}}" column-type="bar" column-labels="true" />
+                    <chart-axis>
+                        <chart-axis-y axis-id="y" axis-position="outer-left" axis-label="Duration in seconds" padding-top="100" padding-bottom="0" range-min="0" />
+                    </chart-axis>
+                    <chart-grid show-x="true" show-y="true">
+                    </chart-grid>
+                </c3chart>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/ng-template" id="durationPerChessboardWidthChart">
+        <div>
+            <h3>Durations for {{entry.version}}</h3>
+            <div id="versionChart">
+                <c3chart bindto-id="duration-chart">
+                    <chart-column column-id="x" column-values="{{join(getDurationDataPerChessboardSize(entry), 0)}}" />
+                    <chart-column column-id="{{entry.language}}" column-color="#008000" column-values="{{join(getDurationDataPerChessboardSize(entry), 1)}}" column-type="bar" column-labels="true" />
+                    <chart-axes values-x="x" />
+                    <chart-axis>
+                        <chart-axis-y axis-id="y" axis-position="outer-left" axis-label="Duration in seconds" padding-top="100" padding-bottom="0" range-min="0" />
+                    </chart-axis>
+                    <chart-grid show-x="true" show-y="true">
+                    </chart-grid>
+                </c3chart>
+            </div>
+        </div>
+    </script>
+</body>
+
+</html>

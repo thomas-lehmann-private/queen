@@ -1,0 +1,39 @@
+SOURCE=Queen_multiprocessing.py
+VERSION=Python 3.10
+TIMESTAMP=1639245357414
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (8x8)
+...took 0.070279 seconds.
+...92 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (9x9)
+...took 0.069145 seconds.
+...352 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (10x10)
+...took 0.071777 seconds.
+...724 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (11x11)
+...took 0.089127 seconds.
+...2680 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (12x12)
+...took 0.202008 seconds.
+...14200 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (13x13)
+...took 0.726948 seconds.
+...73712 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (14x14)
+...took 3.972363 seconds.
+...365596 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (15x15)
+...took 22.329522 seconds.
+...2279184 solutions found.
+Running ./Queen_multiprocessing.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (16x16)
+...took 142.830059 seconds.
+...14772512 solutions found.

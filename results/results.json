@@ -1,0 +1,430 @@
+[
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 8,
+    "durations": {
+      "1639218563151": 0.001768
+    },
+    "solutions": 92,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 9,
+    "durations": {
+      "1639218563151": 0.006248
+    },
+    "solutions": 352,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 10,
+    "durations": {
+      "1639218563151": 0.022092
+    },
+    "solutions": 724,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 11,
+    "durations": {
+      "1639218563151": 0.113874
+    },
+    "solutions": 2680,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 12,
+    "durations": {
+      "1639218563151": 0.536824
+    },
+    "solutions": 14200,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 13,
+    "durations": {
+      "1639218563151": 3.2488
+    },
+    "solutions": 73712,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 14,
+    "durations": {
+      "1639218563151": 17.588932
+    },
+    "solutions": 365596,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 15,
+    "durations": {
+      "1639218563151": 119.03497
+    },
+    "solutions": 2279184,
+    "source": "Queen.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 8,
+    "durations": {
+      "1639218961508": 0.009822
+    },
+    "solutions": 92,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 9,
+    "durations": {
+      "1639218961508": 0.040433
+    },
+    "solutions": 352,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 10,
+    "durations": {
+      "1639218961508": 0.059544
+    },
+    "solutions": 724,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 11,
+    "durations": {
+      "1639218961508": 0.110805
+    },
+    "solutions": 2680,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 12,
+    "durations": {
+      "1639218961508": 0.226873
+    },
+    "solutions": 14200,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 13,
+    "durations": {
+      "1639218961508": 0.762201
+    },
+    "solutions": 73712,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 14,
+    "durations": {
+      "1639218961508": 3.329441
+    },
+    "solutions": 365596,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 15,
+    "durations": {
+      "1639218961508": 23.083327
+    },
+    "solutions": 2279184,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "http://pypy.org",
+    "distribution": "PyPy",
+    "chessboard-width": 16,
+    "durations": {
+      "1639218961508": 151.385776
+    },
+    "solutions": 14772512,
+    "source": "Queen.py",
+    "version": "PyPy (Python 3.8)"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 8,
+    "durations": {
+      "1639245216669": 0.082938,
+      "1639245357414": 0.070279
+    },
+    "solutions": 92,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 9,
+    "durations": {
+      "1639245216669": 0.077667,
+      "1639245357414": 0.069145
+    },
+    "solutions": 352,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 10,
+    "durations": {
+      "1639245216669": 0.076884,
+      "1639245357414": 0.071777
+    },
+    "solutions": 724,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 11,
+    "durations": {
+      "1639245216669": 0.096353,
+      "1639245357414": 0.089127
+    },
+    "solutions": 2680,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 12,
+    "durations": {
+      "1639245216669": 0.194356,
+      "1639245357414": 0.202008
+    },
+    "solutions": 14200,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 13,
+    "durations": {
+      "1639245216669": 0.790802,
+      "1639245357414": 0.726948
+    },
+    "solutions": 73712,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 14,
+    "durations": {
+      "1639245216669": 3.696266,
+      "1639245357414": 3.972363
+    },
+    "solutions": 365596,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 15,
+    "durations": {
+      "1639245216669": 22.993794,
+      "1639245357414": 22.329522
+    },
+    "solutions": 2279184,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Python",
+    "url": "https://www.python.org",
+    "distribution": "Python",
+    "chessboard-width": 16,
+    "durations": {
+      "1639245357414": 142.830059
+    },
+    "solutions": 14772512,
+    "source": "Queen_multiprocessing.py",
+    "version": "Python 3.10"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 8,
+    "durations": {
+      "1639301626813": 0.002
+    },
+    "solutions": 92,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 9,
+    "durations": {
+      "1639301626813": 0.003
+    },
+    "solutions": 352,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 10,
+    "durations": {
+      "1639301626813": 0.005
+    },
+    "solutions": 724,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 11,
+    "durations": {
+      "1639301626813": 0.015
+    },
+    "solutions": 2680,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 12,
+    "durations": {
+      "1639301626813": 0.071
+    },
+    "solutions": 14200,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 13,
+    "durations": {
+      "1639301626813": 0.37
+    },
+    "solutions": 73712,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 14,
+    "durations": {
+      "1639301626813": 2.22
+    },
+    "solutions": 365596,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 15,
+    "durations": {
+      "1639301626813": 14.494
+    },
+    "solutions": 2279184,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  },
+  {
+    "language": "Javascript",
+    "url": "https://nodejs.org/en",
+    "distribution": "Node.js",
+    "chessboard-width": 16,
+    "durations": {
+      "1639301626813": 98.692
+    },
+    "solutions": 14772512,
+    "source": "Queen_node.js",
+    "version": "Nodejs 16"
+  }
+]

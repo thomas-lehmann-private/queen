@@ -1,0 +1,35 @@
+SOURCE=Queen.py
+VERSION=Python 3.10
+TIMESTAMP=1639218563151
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (8x8)
+...took 0.001768 seconds.
+...92 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (9x9)
+...took 0.006248 seconds.
+...352 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (10x10)
+...took 0.022092 seconds.
+...724 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (11x11)
+...took 0.113874 seconds.
+...2680 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (12x12)
+...took 0.536824 seconds.
+...14200 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (13x13)
+...took 3.248800 seconds.
+...73712 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (14x14)
+...took 17.588932 seconds.
+...365596 solutions found.
+Running ./Queen.py with /usr/local/bin/python - version 3.10.1 (main, Dec  8 2021, 03:30:49) [GCC 10.2.1 20210110]
+Queen raster (15x15)
+...took 119.034970 seconds.
+...2279184 solutions found.

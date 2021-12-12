@@ -1,0 +1,48 @@
+SOURCE=Queen.py
+VERSION=PyPy (Python 3.8)
+TIMESTAMP=1639218961508
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (8x8)
+...took 0.009822 seconds.
+...92 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (9x9)
+...took 0.040433 seconds.
+...352 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (10x10)
+...took 0.059544 seconds.
+...724 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (11x11)
+...took 0.110805 seconds.
+...2680 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (12x12)
+...took 0.226873 seconds.
+...14200 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (13x13)
+...took 0.762201 seconds.
+...73712 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (14x14)
+...took 3.329441 seconds.
+...365596 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (15x15)
+...took 23.083327 seconds.
+...2279184 solutions found.
+Running ./Queen.py with /opt/pypy/bin/pypy - version 3.8.12 (9ef55f6fc369, Oct 24 2021, 20:11:54)
+[PyPy 7.3.7 with GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+Queen raster (16x16)
+...took 151.385776 seconds.
+...14772512 solutions found.
