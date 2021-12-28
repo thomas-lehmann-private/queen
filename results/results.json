@@ -638,5 +638,113 @@
     "solutions": 14772512,
     "source": "Queen.java",
     "version": "Java 16"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 8,
+    "durations": {
+      "1640607114035": 0.0
+    },
+    "solutions": 92,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 9,
+    "durations": {
+      "1640607114035": 0.001
+    },
+    "solutions": 352,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 10,
+    "durations": {
+      "1640607114035": 0.003
+    },
+    "solutions": 724,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 11,
+    "durations": {
+      "1640607114035": 0.012
+    },
+    "solutions": 2680,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 12,
+    "durations": {
+      "1640607114035": 0.08
+    },
+    "solutions": 14200,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 13,
+    "durations": {
+      "1640607114035": 0.387
+    },
+    "solutions": 73712,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 14,
+    "durations": {
+      "1640607114035": 2.278
+    },
+    "solutions": 365596,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 15,
+    "durations": {
+      "1640607114035": 14.51
+    },
+    "solutions": 2279184,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
+  },
+  {
+    "language": "free pascal",
+    "url": "http://www.freepascal.org",
+    "distribution": "free pascal",
+    "chessboard-width": 16,
+    "durations": {
+      "1640607114035": 111.509
+    },
+    "solutions": 14772512,
+    "source": "Queen.pas",
+    "version": "Freepascal 3.2.2"
   }
 ]

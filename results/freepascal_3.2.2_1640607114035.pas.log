@@ -1,0 +1,93 @@
+SOURCE=Queen.pas
+VERSION=Freepascal 3.2.2
+TIMESTAMP=1640607114035
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (8x8)
+...took 0.00000 seconds.
+...92 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (9x9)
+...took 0.00100 seconds.
+...352 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (10x10)
+...took 0.00300 seconds.
+...724 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (11x11)
+...took 0.01200 seconds.
+...2680 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (12x12)
+...took 0.08000 seconds.
+...14200 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (13x13)
+...took 0.38700 seconds.
+...73712 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (14x14)
+...took 2.27800 seconds.
+...365596 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (15x15)
+...took 14.51000 seconds.
+...2279184 solutions found.
+Free Pascal Compiler version 3.2.2 [2021/05/16] for x86_64
+Copyright (c) 1993-2021 by Florian Klaempfl and others
+Target OS: Linux for x86-64
+Compiling ./Queen.pas
+Linking /tmp/Queen
+152 lines compiled, 0.1 sec
+Free Pascal
+Queen raster (16x16)
+...took 111.50900 seconds.
+...14772512 solutions found.
